@@ -1,0 +1,3 @@
+[submodule "NJ-WF"]
+	path = NJ-WF
+	url = https://github.com/WorkflowCenter-Repositories/NJ-WF.git

@@ -1,3 +1,6 @@
 [submodule "NJ-WF"]
 	path = NJ-WF
 	url = https://github.com/WorkflowCenter-Repositories/NJ-WF.git
+[submodule "Mega-NJ-Task"]
+	path = Mega-NJ-Task
+	url = https://github.com/WorkflowCenter-Repositories/Mega-NJ-Task.git

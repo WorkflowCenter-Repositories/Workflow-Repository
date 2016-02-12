@@ -4,3 +4,6 @@
 [submodule "Mega-NJ-Task"]
 	path = Mega-NJ-Task
 	url = https://github.com/WorkflowCenter-Repositories/Mega-NJ-Task.git
+[submodule "Picard"]
+	path = Picard
+	url = https://github.com/WorkflowCenter-Repositories/Picard.git

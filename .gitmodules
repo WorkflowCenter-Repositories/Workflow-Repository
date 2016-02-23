@@ -7,3 +7,6 @@
 [submodule "Picard"]
 	path = Picard
 	url = https://github.com/WorkflowCenter-Repositories/Picard.git
+[submodule "Columns-Invert-WF"]
+	path = Columns-Invert-WF
+	url = https://github.com/WorkflowCenter-Repositories/Columns-Invert-WF.git

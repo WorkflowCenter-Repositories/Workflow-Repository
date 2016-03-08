@@ -10,3 +10,6 @@
 [submodule "Columns-Invert-WF"]
 	path = Columns-Invert-WF
 	url = https://github.com/WorkflowCenter-Repositories/Columns-Invert-WF.git
+[submodule "FileZip-WF"]
+	path = FileZip-WF
+	url = https://github.com/WorkflowCenter-Repositories/FileZip-WF.git
